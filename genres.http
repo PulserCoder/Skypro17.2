@@ -17,12 +17,12 @@ Accept: application/json
 
 ###
 
-PUT http://localhost:5000/genres/1
+PUT http://localhost:5000/genres/3
 Accept: application/json
 Content-Type: application/json
 
 {
-  "name": "superka"
+  "name": "supsdffsddferka"
 }
 
 ###
@@ -32,12 +32,12 @@ Accept: application/json
 
 ###
 
-PATCH http://localhost:5000/genres/1
+PATCH http://localhost:5000/genres/3
 Accept: application/json
 Content-Type: application/json
 
 {
-  "name": "superka"
+  "name": "234234"
 }
 
 
